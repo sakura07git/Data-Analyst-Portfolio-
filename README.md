@@ -13,15 +13,9 @@ My resume in [pdf](https://github.com/sakura07git/Data-Analyst-Portfolio-/blob/m
 
 ## Table of Contents
 - [About](https://github.com/sakura07git/Data-Analyst-Portfolio-/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/sakura07git/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
-  - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+- [Portfolio Projects]
+  - Machine Learning 
+    - [Credit Card Fraud Detection using ML](https://github.com/sakura07git/Data-Analyst-Portfolio-/tree/Fraud)
+    - [Insurance Loss Prediction using ML](https://github.com/sakura07git/Data-Analyst-Portfolio-/tree/Insurance-Loss-Prediction)
   - SQL
-    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
-  - R
-    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
-  - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
-  - Power BI
+    - [TuneWork Entertainment Data Analysis and Visualization](https://github.com/sakura07git/Data-Analyst-Portfolio-/tree/SQL)
